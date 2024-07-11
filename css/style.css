@@ -263,6 +263,9 @@ h6,
     border-radius: 120px;
     transition: .5s;
 }
+.fact-icon img {
+  width: 75px;   
+}
 
 .fact-item:hover .fact-icon {
     background: var(--dark);
